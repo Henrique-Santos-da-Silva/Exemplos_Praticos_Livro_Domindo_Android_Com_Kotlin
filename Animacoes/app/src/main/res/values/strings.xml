@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animacoes</string>
+    <string name="btn_play">Play!</string>
+    <string name="txt_btn_activity_view_animations">Animações</string>
+    <string name="txt_btn_activity_property_animations">Property Animations</string>
+    <string name="txt_btn_activity_drawable_animations">Animação em Imagens(Drawables)</string>
+    <string name="txt_btn_activity_layout_change_animations">Animação de mudanças de Layout</string>
+    <string name="txt_btn_add">Adicionar</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_btn_activity_transition_api_animations">Transition API</string>
+    <string name="txt_btn_activity_circular_reveal_animation">Animações Circulares (Circular Reveal)</string>
+</resources>

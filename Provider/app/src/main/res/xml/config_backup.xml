@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:tools="http://schemas.android.com/tools">
+    <exclude domain="files" path="arquivo.txt"
+        tools:ignore="FullBackupContent" />
+    <include domain="database" path="dbHotel" />
+</full-backup-content>
+
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        app:title="@string/title_city"
+        app:key="@string/pref_city"
+        app:defaultValue="@string/pref_city_default"
+        app:singleLine="true"/>
+<!--        app:inputType="text"-->
+    <SwitchPreference
+        app:title="@string/title_messages"
+        app:summary="@string/summary_messages"
+        app:key="@string/pref_messages"/>
+    <ListPreference
+        app:title="@string/title_social_network"
+        app:key="@string/pref_social_network"
+        app:entries="@array/social_networks"
+        app:entryValues="@array/social_networks_values"
+        app:defaultValue="@string/pref_social_network_default"/>
+
+</PreferenceScreen>
